@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>9C386273-BA8A-431C-AB8B-1CCC53E63B57</string>
+	<key>IDESourceControlProjectName</key>
+	<string>project</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>0F9F3602ED911CD6EC86002CC6F1417570B42D9F</key>
+		<string>https://github.com/nicintosh/LCS.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>LCSAlpha/LCSAlpha.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>0F9F3602ED911CD6EC86002CC6F1417570B42D9F</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/nicintosh/LCS.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>0F9F3602ED911CD6EC86002CC6F1417570B42D9F</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>0F9F3602ED911CD6EC86002CC6F1417570B42D9F</string>
+			<key>IDESourceControlWCCName</key>
+			<string>LCS</string>
+		</dict>
+	</array>
+</dict>
+</plist>
